@@ -1,0 +1,6 @@
+go
+==
+
+golang
+
+test golang
